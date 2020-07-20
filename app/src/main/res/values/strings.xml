@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test007</string>
+    <string name="tabs_page_0">Home</string>
+    <string name="tabs_page_1">Favorites</string>
+    <string name="tabs_page_2">Search</string>
+    <string name="newsapikey">7e92b6a2c2d94f8a81d43530702baff6</string>
+</resources>
